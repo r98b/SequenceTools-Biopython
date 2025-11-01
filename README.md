@@ -1,4 +1,4 @@
-# SequenceTools-Python
+# SequenceTools-Biopython
 
 A menu-based program for **DNA / RNA / Protein** operations written in **Python** using Biopython library.  
 Originally built for my **Bioinformatics coursework** and later **refined and polished** for clarity.
