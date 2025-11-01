@@ -79,7 +79,7 @@ As operations on protein sequences are not included in this program, the followi
 
 ![Protein Example](assets/protein_option3.png)
 
-
+More operations on protein/amino acids sequences are to be found in future repositories.
 
 
 
