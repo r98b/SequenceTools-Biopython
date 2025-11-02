@@ -34,7 +34,7 @@ pip install biopython
 **To run the file:** 
 
 ```bash
-python seq_cli_purepython.py
+python seq_cli_biopython.py
 ```
 ---
 ##  Concrete examples (input → output)
